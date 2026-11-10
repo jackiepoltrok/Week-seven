@@ -6,3 +6,6 @@ Despite the challenges I still completed the notebook. Here is some of the progr
 <img width="488" height="503" alt="Screenshot 2026-11-10 at 4 24 59 PM" src="https://github.com/user-attachments/assets/9e3229e1-711f-4271-9f41-7ae5405d938d" />
 <img width="628" height="660" alt="Screenshot 2026-11-10 at 4 24 49 PM" src="https://github.com/user-attachments/assets/f02524cd-af98-408b-b3fd-ff660d0e065e" />
 <img width="480" height="505" alt="Screenshot 2026-11-10 at 4 24 34 PM" src="https://github.com/user-attachments/assets/fed33f9e-2d0b-40d6-82b8-b819ea3d78ad" />
+The order of the images is not accurate to the order I completed each block in Colab.
+
+I also completed the Roman Empire Colab exercise.
