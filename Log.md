@@ -8,4 +8,11 @@ Despite the challenges I still completed the notebook. Here is some of the progr
 <img width="480" height="505" alt="Screenshot 2026-11-10 at 4 24 34 PM" src="https://github.com/user-attachments/assets/fed33f9e-2d0b-40d6-82b8-b819ea3d78ad" />
 The order of the images is not accurate to the order I completed each block in Colab.
 
-I also completed the Roman Empire Colab exercise.
+I also completed the Roman Empire Colab exercise:
+<img width="784" height="629" alt="Screenshot 2026-11-10 at 4 40 13 PM" src="https://github.com/user-attachments/assets/bb3ca43c-4876-47d0-a255-f210ce616121" />
+<img width="1011" height="655" alt="Screenshot 2026-11-10 at 4 40 05 PM" src="https://github.com/user-attachments/assets/e57f8145-c72f-4dea-9b6b-ab94b9629be4" />
+<img width="736" height="424" alt="Screenshot 2026-11-10 at 4 39 53 PM" src="https://github.com/user-attachments/assets/e93ce83a-c91a-4111-a80c-f3c40797b7fd" />
+<img width="622" height="407" alt="Screenshot 2026-11-10 at 4 39 37 PM" src="https://github.com/user-attachments/assets/0d94b1f6-6551-4a4a-a38d-d1eb95e85e71" />
+<img width="856" height="584" alt="Screenshot 2026-11-10 at 4 39 28 PM" src="https://github.com/user-attachments/assets/31270cb3-aaea-45d8-85dd-7453cde2d2ee" />
+<img width="951" height="630" alt="Screenshot 2026-11-10 at 4 39 16 PM" src="https://github.com/user-attachments/assets/0ac6dae7-059d-4a92-9427-de62426f374d" />
+
