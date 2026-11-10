@@ -1,1 +1,3 @@
-
+This week's readings connect to our exercises in Google Colab and how digital tools can help us look at the past in different ways. 
+Creating networks of the Roman Empire and a small rural farming community showed me how we can use relationships and connections to better understand how people lived and interacted, whether looking at a large empire or a much smaller community. If I were to still be going with my "Archaeology of Gum" PDAP proposal, this is something I would definitely be using to analyze relationships and trends within the gum placement. 
+It also made me think about how digital tools can help us see patterns in historical information that might otherwise be difficult to recognize. Again, using the gum reference, I would have never been able to draw certain conclusions that were made possible from the analysis of data as seen in the Colab exercise without that digital tool. Our eyes can only tell us so much sometimes.
